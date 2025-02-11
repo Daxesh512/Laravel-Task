@@ -1,0 +1,11 @@
+
+/* ----------- humans.txt ------------ */
+
+/* SITE INFO */
+
+Template: Offshore
+Author: Surjith S M
+Author URL: http://themeforest.net/user/surjithctly
+Twitter: @surjithctly
+Location: Kerala, India.
+Last update: 2016 June
